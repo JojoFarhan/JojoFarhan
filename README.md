@@ -1,5 +1,5 @@
 <h1 align="center">**Farhan Billah**</h1>
-<h3 align="center">Final Year CSE Student | Aspiring AI/ML Engineer | Web Developer</h3>
+<h3 align="center">CSE Student | Aspiring AI/ML Engineer | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JojoFarhan&label=Profile%20views&color=0e75b6&style=flat" alt="JojoFarhan" />
